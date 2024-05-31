@@ -2,6 +2,6 @@ ro.hardware=ums512_1h10
 ro.secure=0
 ro.adb.secure=0
 ro.debuggable=1
-ro.sf.lcd_density=320
+ro.sf.lcd_density=160
 ro.boot.dynamic_partitions=true
 sys.usb.controller=musb-hdrc.0.auto
